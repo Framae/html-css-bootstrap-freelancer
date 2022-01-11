@@ -6,6 +6,15 @@
 
 header {
     height: 100px;
+    background-color: rgb(15, 15, 70);
+}
+
+.jumbotron {
+    height: 500px;
     background-color: aqua;
 }
 
+.sp-col-sz {
+    color: white;
+    text-transform: uppercase;
+}
