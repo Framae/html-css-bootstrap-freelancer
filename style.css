@@ -5,8 +5,9 @@
 }
 
 header {
-    height: 100px;
+    line-height: 50px;
     background-color: rgb(15, 15, 70);
+    vertical-align: middle;
 }
 
 .jumbotron {
