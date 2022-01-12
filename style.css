@@ -5,17 +5,17 @@
 }
 
 header {
-    line-height: 50px;
     background-color: rgb(15, 15, 70);
-    vertical-align: middle;
 }
 
 .jumbotron {
-    height: 500px;
     background-color: aqua;
-    display: flex;
-    justify-content: center;
-    
+}
+
+.trattino {
+    width: 50px;
+    height: 3px;
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 .sp-col-sz {
@@ -24,7 +24,8 @@ header {
 }
 
 .avatar {
-    min-width: 30%;
+    width: 150px;
+    min-width: 150px;
 }
 
 .section3 {
