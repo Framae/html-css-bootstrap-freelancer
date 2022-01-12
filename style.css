@@ -9,13 +9,13 @@ header {
 }
 
 .jumbotron {
-    background-color: aqua;
+    background-color: #1abc9c;
 }
 
-.trattino {
+.line {
     width: 50px;
     height: 3px;
-    background-color: rgba(0, 0, 0, 0.7);
+    margin: 0 3px;
 }
 
 .sp-col-sz {
