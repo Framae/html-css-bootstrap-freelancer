@@ -30,6 +30,34 @@ header {
     min-width: 150px;
 }
 
+.card-image {
+    position: relative;
+    overflow: hidden;
+}
+
+.overlay {
+    background-color: rgba(255, 255, 255, 0.5);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-image:hover .overlay{
+    display: flex;
+    cursor: pointer;
+}
+
+.bi-plus-circle {
+    font-size: 100px;
+    font-weight: 900;
+    color: white;
+}
+
 .section3 {
     background-color: #1abc9c;
     margin: 20px 0;
