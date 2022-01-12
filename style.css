@@ -13,7 +13,7 @@ header {
 }
 
 .line {
-    width: 50px;
+    width: 70px;
     height: 3px;
     margin: 0 3px;
 }
@@ -29,8 +29,7 @@ header {
 }
 
 .section3 {
-    height: 500px;
-    background-color: rgb(51, 194, 51);
+    background-color: #1abc9c;
     margin: 20px 0;
 }
 
