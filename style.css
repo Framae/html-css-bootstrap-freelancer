@@ -36,15 +36,16 @@ header {
 }
 
 .overlay {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(250, 245, 245, 0.5);
     position: absolute;
     top: 0;
-    left: 0;
-    right: 0;
+    left: 11px;
+    right: 11px;
     bottom: 0;
     display: none;
     align-items: center;
     justify-content: center;
+    border-radius: 3px;
 }
 
 .card-image:hover .overlay{
@@ -70,10 +71,9 @@ header {
 }
 
 .footer-top {
-    background-color: rgb(43, 43, 199);
+    background-color: #2c3e50;
 }
 
 .footer-bottom {
-    height: 100px;
     background-color: rgb(15, 15, 48);
 }
