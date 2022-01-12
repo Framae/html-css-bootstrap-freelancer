@@ -9,6 +9,8 @@ header {
 }
 
 .jumbotron {
+    padding-top: 100px;
+    padding-bottom: 50px;
     background-color: #1abc9c;
 }
 
@@ -39,12 +41,11 @@ header {
     text-align: center;
 }
 
-.section5 {
-    height: 200px;
+.footer-top {
     background-color: rgb(43, 43, 199);
 }
 
-footer {
+.footer-bottom {
     height: 100px;
     background-color: rgb(15, 15, 48);
 }
