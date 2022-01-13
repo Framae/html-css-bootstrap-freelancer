@@ -32,20 +32,18 @@ header {
 
 .card-image {
     position: relative;
-    overflow: hidden;
 }
 
 .overlay {
-    background-color: rgba(250, 245, 245, 0.5);
+    background-color: rgba(87, 11, 11, 0.5);
     position: absolute;
     top: 0;
-    left: 11px;
-    right: 11px;
+    left: 0;
+    right: 0;
     bottom: 0;
     display: none;
     align-items: center;
     justify-content: center;
-    border-radius: 3px;
 }
 
 .card-image:hover .overlay{
