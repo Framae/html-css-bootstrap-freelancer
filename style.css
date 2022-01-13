@@ -15,9 +15,13 @@ header {
 }
 
 .line {
-    width: 70px;
+    width: 100px;
     height: 3px;
-    margin: 0 3px;
+    margin: 0 20px;
+}
+
+.bi-star-fill {
+    font-size: 30px;
 }
 
 .sp-col-sz {
@@ -65,7 +69,6 @@ header {
 }
 
 .section4 {
-    height: 400px;
     margin-bottom: 20px;
     text-align: center;
 }
