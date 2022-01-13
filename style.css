@@ -32,6 +32,8 @@ header {
 
 .card-image {
     position: relative;
+    border-radius: 10px;
+    overflow: hidden;
 }
 
 .overlay {
