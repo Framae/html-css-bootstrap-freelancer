@@ -8,6 +8,10 @@ header {
     background-color: rgb(15, 15, 70);
 }
 
+.ms_nav_bar ul li a{
+    color: blue;
+}
+
 .jumbotron {
     padding-top: 100px;
     padding-bottom: 50px;
